@@ -1,0 +1,2 @@
+Seismic waveform denoising using Python/ObsPy and DeepDenoiser API inference; illustrated notebook walkthrough and time-frequency masking report.
+Prepared by Erfan Yavari.
