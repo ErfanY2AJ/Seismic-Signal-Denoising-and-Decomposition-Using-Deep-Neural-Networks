@@ -233,7 +233,6 @@ For the **interactive demonstration**, verify the configured API endpoint before
 ## Attribution and references
 
 **Repository compilation and documentation:** Erfan Yavari.  
-**Supplied Persian-language report:** its original title page identifies **Rahaleh Mohseni**; the source report has not been represented as independently authored by Erfan Yavari.  
 **Method and figures described in that report:** Zhu, W., Mousavi, S. M., & Beroza, G. C. (2019). *Seismic Signal Denoising and Decomposition Using Deep Neural Networks*. IEEE Transactions on Geoscience and Remote Sensing, 57(11), 9476–9488. **DOI:** https://doi.org/10.1109/TGRS.2019.2926772
 
 - [Original DeepDenoiser implementation (AI4EPS)](https://github.com/AI4EPS/DeepDenoiser)
